@@ -1,5 +1,7 @@
 fastapi
 uvicorn
 requests
-pytest
 requests-mock
+pytest
+httpx
+
